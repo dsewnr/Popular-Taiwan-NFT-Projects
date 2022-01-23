@@ -1,4 +1,4 @@
-# Taiwan-NFT-Projects
+# Popular-Taiwan-NFT-Projects
 台灣熱門 NFT 項目列表
 
 | 名稱 | 官網 | Discord | Twitter |
