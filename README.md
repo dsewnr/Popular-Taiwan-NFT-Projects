@@ -7,5 +7,6 @@
 | DEMI HUMAN | [https://www.demiversestudio.com/](https://www.demiversestudio.com/) | [http://discord.gg/demi-human](http://discord.gg/demi-human) | [https://twitter.com/DemihumanNft](https://twitter.com/DemihumanNft) |
 | 土豪蕉 | [https://ballerbananas.com/m/zh-tw/](https://ballerbananas.com/m/zh-tw/) | [http://discord.gg/ballerbananas](http://discord.gg/ballerbananas) | [https://twitter.com/baller_bananas](https://twitter.com/baller_bananas) |
 | OnionMeta | [https://www.onionmeta.club/](https://www.onionmeta.club/) | [https://discord.gg/xQBbyy3A7J](https://discord.gg/xQBbyy3A7J) |  |
+| 元宇宙第一雞肉飯 | [https://opensea.io/collection/metaverse-no-1-chicken-rice](https://opensea.io/collection/metaverse-no-1-chicken-rice) | | |
 
 ❓有問題請到[這邊](https://github.com/dsewnr/Popular-Taiwan-NFT-Projects/issues)發問，🙏想自己動手修改歡迎 [PR](https://github.com/dsewnr/Popular-Taiwan-NFT-Projects/pulls)
